@@ -14,7 +14,7 @@ https://grouplens.org/datasets/movielens/latest/
 <img src="determining_K_val.PNG" width="60%">
 
 ### Visualizing User Ratings in a Cluster
-<img src="visualize_user_cluster.PNG" width="70%">
+<img src="visualize_user_cluster.PNG" width="80%">
 
 ### Recommending Movies to a User
 <img src="movie_recommendation.PNG" width="50%">
