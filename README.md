@@ -13,7 +13,7 @@ https://grouplens.org/datasets/movielens/latest/
 ### Visualizing User Ratings 
 <img src="heatmap_user_ratings.PNG" width="70%">
 
-### Elbow method for Determining - k
+### Determining the value of k (Elbow method)
 <img src="determining_K_val.PNG" width="60%">
 
 ### Recommending Movies to a User
