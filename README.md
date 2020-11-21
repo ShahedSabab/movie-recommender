@@ -10,11 +10,11 @@ https://grouplens.org/datasets/movielens/latest/
 ### Popular Genre
 <img src="popular_genre.PNG" width="60%">
 
-### Visualizing User Ratings 
-<img src="heatmap_user_ratings.PNG" width="70%">
-
-### Determining the value of k (Elbow method)
+### Determining the value of k for K Means (Elbow method)
 <img src="determining_K_val.PNG" width="60%">
+
+### Visualizing User Ratings in a Cluster
+<img src="visualize_user_cluster.PNG" width="70%">
 
 ### Recommending Movies to a User
 <img src="movie_recommendation.PNG" width="50%">
