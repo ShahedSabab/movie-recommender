@@ -7,13 +7,16 @@ https://grouplens.org/datasets/movielens/latest/
 • The value of K is determined using silhouette score.<br/>
 • Personalized recommendation is given based on cluster analysis.<br/>
 
-### Popular genre
+### Popular Genre
 <img src="popular_genre.PNG" width="60%">
-### Visualizing user ratings 
+
+### Visualizing User Ratings 
 <img src="heatmap_user_ratings.PNG" width="70%">
-### Elbow method for determining the value of k
+
+### Elbow method for Determining - k
 <img src="determining_K_val.PNG" width="60%">
-### Recommending movies to a user
+
+### Recommending Movies to a User
 <img src="movie_recommendation.PNG" width="50%">
 
 # How to run:
